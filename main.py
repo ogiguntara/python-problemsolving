@@ -1,6 +1,6 @@
 #!python3
-from hackerrank import *
+from warmUp import *
 
 if __name__=="__main__":
-    a=solveMeFirst(1,2)
+    a=solveMeFirst(2,3)
     print(a)
