@@ -17,3 +17,6 @@ def sortString(a):
     print('\nHasil urutan sesuai abjad: ')
     for word in words:
         print(word)
+
+def luas_segitiga(alas,tinggi):
+    return (alas*tinggi)/2
