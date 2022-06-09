@@ -12,7 +12,7 @@ if __name__=="__main__":
     # a= aVeryBigSum(a1)
     # a1=[-4, 3, -9, 0, 4, 1]
     # a= plusMinus(a1)
-    a1=[3,2,1,3]
-    a=birthdayCakeCandles(a1)
+    a1='07:05:45PM'
+    a=timeConversion(a1)
     print(a)
     
