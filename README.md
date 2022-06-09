@@ -8,3 +8,4 @@ Warm Up Section
 - a very big sum
 - diagonal difference
 - plus minus
+- stair case
