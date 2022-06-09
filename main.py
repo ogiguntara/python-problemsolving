@@ -12,5 +12,4 @@ if __name__=="__main__":
     # a= aVeryBigSum(a1)
     a1=[-4, 3, -9, 0, 4, 1]
     a= plusMinus(a1)
-    print(a)
     
