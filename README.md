@@ -6,3 +6,4 @@ Warm Up Section
 - simple array sum
 - compare triplet
 - a very big sum
+- diagonal difference
