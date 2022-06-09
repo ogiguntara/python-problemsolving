@@ -9,3 +9,4 @@ Warm Up Section
 - diagonal difference
 - plus minus
 - stair case
+- minimaxsum solved
