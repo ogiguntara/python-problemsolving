@@ -59,5 +59,13 @@ def miniMaxSum(arr):
     biggest = max(arr)
     lowest = min (arr)
     print((total-biggest),(total-lowest))
-        
+
+def birthdayCakeCandles(candles):
+    maxi = max(candles)
+    count = 0
+    for i in candles :
+        if i == maxi :
+            count += 1
+    return count
+
      

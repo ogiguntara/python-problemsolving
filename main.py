@@ -12,6 +12,7 @@ if __name__=="__main__":
     # a= aVeryBigSum(a1)
     # a1=[-4, 3, -9, 0, 4, 1]
     # a= plusMinus(a1)
-    a1=[1,2,3,4,5]
-    a=miniMaxSum(a1)
+    a1=[3,2,1,3]
+    a=birthdayCakeCandles(a1)
+    print(a)
     
