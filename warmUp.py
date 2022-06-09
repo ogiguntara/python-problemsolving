@@ -53,4 +53,11 @@ def staircase(n):
     for i in range(n):
         j -= 1
         print(' '*j+'#'*(i+1))
+
+def miniMaxSum(arr):
+    total = sum(arr)
+    biggest = max(arr)
+    lowest = min (arr)
+    print((total-biggest),(total-lowest))
+        
      
