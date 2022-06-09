@@ -47,3 +47,10 @@ def plusMinus(arr):
     print("{:.6f}".format(positive/total))
     print("{:.6f}".format(negative/total))
     print("{:.6f}".format(zeros/total))
+
+def staircase(n):
+    j=n
+    for i in range(n):
+        j -= 1
+        print(' '*j+'#'*(i+1))
+     
