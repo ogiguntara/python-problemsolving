@@ -9,7 +9,7 @@ def simpleArraySum(ar):
 def compareTriplets(a,b):
     alicepoint = 0
     bobpoint = 0
-    for pointa,pointb in zip(a,b):
+    for pointa,pointb in zip(a,b): #pairing using zip function
         if pointa > pointb:
             alicepoint += 1
         elif pointa < pointb :
@@ -17,3 +17,6 @@ def compareTriplets(a,b):
         else :
             pass
     return alicepoint, bobpoint
+
+def aVeryBigSum(ar):
+    return sum(ar)
