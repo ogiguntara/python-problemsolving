@@ -20,3 +20,6 @@ def sortString(a):
 
 def luas_segitiga(alas,tinggi):
     return (alas*tinggi)/2
+
+def luas_persegi(sisi):
+    return sisi**2
