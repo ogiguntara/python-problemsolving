@@ -12,3 +12,4 @@ Warm Up Section
 - minimaxsum solved
 - birthday cake candles
 - time conversion
+- grading student
