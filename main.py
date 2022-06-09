@@ -10,7 +10,7 @@ if __name__=="__main__":
     # a=compareTriplets(a1,a2)
     # a1=[1000000001,1000000002,1000000003,1000000004,1000000005]
     # a= aVeryBigSum(a1)
-    a1=[[11,2,4],[4,5,6],[10,8,-12]]
-    a= diagonalDifference(a1)
+    a1=[-4, 3, -9, 0, 4, 1]
+    a= plusMinus(a1)
     print(a)
     

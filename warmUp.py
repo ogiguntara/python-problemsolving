@@ -31,3 +31,19 @@ def diagonalDifference(arr):
             if i+j == len(arr[i])-1:
                 secondary += arr[i][j]
     return abs(primary-secondary)
+
+def plusMinus(arr):
+    positive = 0
+    negative = 0
+    zeros    = 0
+    for i in arr :
+        if i > 0 :
+            positive += 1
+        elif i < 0 :
+            negative += 1
+        else : 
+            zeros += 1
+    total = positive+negative+zeros
+    print("{:.6f}".format(positive/total))
+    print("{:.6f}".format(negative/total))
+    print("{:.6f}".format(zeros/total))
