@@ -4,6 +4,7 @@ Solved python practical cases from Digital Skola and HackerRank
 
 session 6 digital skola
 - sort string (remove punctuation, split string, sort string)
+- luas segitiga dan luas persegi (penggunaan f string)
 
 Warm Up Section
 - solve me first
